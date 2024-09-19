@@ -8,9 +8,6 @@ Included in this repository are DXF files that are ready to be used for laser cu
 - Modularity: Frame is designed for easy assembly and disassembly.
 - Laser-Cutting Ready: Includes DXF files that are prepped and optimized for CNC laser cutting.
 - You Can use this Frame with the F4/F7 Stack Flight Controller and 4in1 Esc (Electronic Speed Controller).
-- Top Frame and Standoffs can be connected using M3 Screws.
-- Also the Bottom Frame and Standoffs Can be connected using M3 Screws.
-- You can Mount the Fligh controller Stack using M3 Screws.
 
 - ## Assembly Instructions
 1. Cutting the Components  
@@ -22,17 +19,19 @@ Included in this repository are DXF files that are ready to be used for laser cu
    - Note:Also the Mounting System Provided in the Assembly file.
 3. Motor Mounting  
    The arms are designed to fit standard 2205 to 2306 motors. Use the provided holes to secure the motors with M3 screws.
+- Top Frame and Standoffs can be connected using M3 Screws.
+- Also the Bottom Frame and Standoffs Can be connected using M3 Screws.
+- You can Mount the Fligh controller Stack using M3 Screws.
 
 ## Materials
 - Recommended Material: Carbon fiber (2mm,3mm or 5mm thickness for frame components).
 - Fasteners: M4 screws and lock nuts.
 - Standoffs: 20-25-30mm aluminum or nylon standoffs for assembling the top and bottom plates.
-- Top Plate: 3mm
-- Bottom Plate: 3mm
-- Center Plate: 2mm
+- Top Plate: 2.5mm
+- Bottom Plat: 2.5mm
+- Center Plate: 2.5mm
 - Arm Plate: 5mm or You can use 4mm
   
-
 - ## Customization
 The frame is fully customizable, and the SolidWorks files can be modified to suit your needs. Feel free to:
 - Adjust arm length for different motor sizes or propeller dimensions.
@@ -47,6 +46,3 @@ If you want to improve or suggest changes to the design, feel free to submit a p
 
 ## Contact
 For questions, support, or feedback, please contact me at [janerhagop75@gmail.com]
-
-
-
