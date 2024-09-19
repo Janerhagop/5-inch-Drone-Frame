@@ -7,9 +7,10 @@ Included in this repository are DXF files that are ready to be used for laser cu
 - Design Software: Modeled in SolidWorks for precise and optimized geometry.
 - Modularity: Frame is designed for easy assembly and disassembly.
 - Laser-Cutting Ready: Includes DXF files that are prepped and optimized for CNC laser cutting.
-- You Can use this Frame with the F4/F7 Stack Flight Controller and 4in1 Esc(Electronic Speed Controller).
+- You Can use this Frame with the F4/F7 Stack Flight Controller and 4in1 Esc (Electronic Speed Controller).
 - Top Frame and Standoffs can be connected using M3 Screws.
-  You can Mount the Fligh controller using M3 Screws.
+- Also the Bottom Frame and Standoffs Can be connected using M3 Screws.
+- You can Mount the Fligh controller Stack using M3 Screws.
 
 - ## Assembly Instructions
 1. Cutting the Components  
